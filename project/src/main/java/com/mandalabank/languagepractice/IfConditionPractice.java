@@ -10,7 +10,7 @@ public class IfConditionPractice {
         float b; // 8 byte decimal numbers
         double c; // 8 byte decimal numbers
         char d; //
-        boolean e = false;
+        boolean e = true;
 
     }
 }
